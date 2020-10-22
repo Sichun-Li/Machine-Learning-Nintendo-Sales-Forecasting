@@ -1,4 +1,4 @@
-# Machine Learning & Deep Learning-Nintendo Sales Forecasting 
+# Machine Learning-Nintendo Sales Forecasting 
 The Nintendo Switch is a video game console developed by Nintendo, released worldwide in most regions on March 3, 2017. It is a hybrid console that can be used as a home console and portable device.  <br>
 In this Nintendo Switch data analytics competition, the task was to forecast the US sales of Nintendo Switch in the first week of May with sales data from January, 2018 to April, 2020.  <br>
 
