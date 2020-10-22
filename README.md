@@ -11,7 +11,6 @@ Tool: Python  <br>
 
 Algorithms Used  <br>
 * Random Forest  <br>
-* LightGBM  <br>
 * Extreme Gradient Boosting  <br>
 * Multilayer Perceptron  <br>
 * Long Short-Term Memory  <br>
